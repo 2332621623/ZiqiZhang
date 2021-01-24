@@ -1,0 +1,8 @@
+uint8 agentID
+uint8  init_x
+uint8  init_y
+uint8  finl_x
+uint8  finl_y
+
+---
+string path

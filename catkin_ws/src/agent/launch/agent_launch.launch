@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="agent" type="agent_server" name="agent_server" output="screen"/>
+	<node pkg="agent" type="agent_client" name="agent_client" output="screen"/>
+</launch>
